@@ -21,4 +21,5 @@ document.querySelector("#submitBtn").addEventListener("click", function() {
           postContent: postContent
         });
     }
+     alert('Your Content is posted Successfully');
   });
